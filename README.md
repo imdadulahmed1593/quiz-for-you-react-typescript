@@ -27,8 +27,8 @@
 
 ### Links
 
-- Solution URL: [](https://github.com/imdadulahmed1593/quiz-for-you-react-typescript)
-- Live Site URL: [](https://quiz-for-you-react-typescript.netlify.app/)
+- Solution URL: [solution](https://github.com/imdadulahmed1593/quiz-for-you-react-typescript)
+- Live Site URL: [live link](https://quiz-for-you-react-typescript.netlify.app/)
 
 ## My process
 
