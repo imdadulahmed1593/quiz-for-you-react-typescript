@@ -34,7 +34,7 @@
 
 ### Built with
 
-- YypeScript
+- TypeScript
 - ReactJS
 - Trivia Api
 - Styled-components
